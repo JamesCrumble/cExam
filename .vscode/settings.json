@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "logging": "log",
+    "string.h": "c",
+    "stdio.h": "c",
+    "string": "c",
+    "processthreadsapi.h": "c",
+    "process.h": "c",
+    "windows.h": "c",
+    "stdbool.h": "c",
+    "tern_ex.h": "c",
+    "threading_ex.h": "c",
+    "scan_ex.h": "c",
+    "stdint.h": "c"
+  }
+}

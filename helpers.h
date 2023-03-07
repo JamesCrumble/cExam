@@ -1,0 +1,1 @@
+#define CALL_FUNC(f, current_status_code) operation_alert(#f, f, current_status_code)
